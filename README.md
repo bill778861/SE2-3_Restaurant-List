@@ -1,6 +1,6 @@
 # **餐廳清單 Restaurant List**
 
-![readme_image1](https://github.com/bill778861/SE2-3_Restaurant-List/tree/main/public/image/README_image1.jpg)
+![readme_image1](https://raw.githubusercontent.com/bill778861/SE2-3_Restaurant-List/main/public/image/README_image1.jpg)
 
 ---
 ## **功能**
